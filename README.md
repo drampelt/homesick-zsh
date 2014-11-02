@@ -1,0 +1,4 @@
+homesick-zsh
+============
+
+Zsh dotfiles
