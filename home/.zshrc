@@ -78,4 +78,4 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-for f in .zshrc.d/*.zsh; do source $f; done
+for f in ~/.zshrc.d/*.zsh; do source $f; done
